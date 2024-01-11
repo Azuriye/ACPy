@@ -9,6 +9,7 @@ You need the following:
 
  1. Python 3.9.2 
  2. pydivert
+ 3. Download this repo as a zip file and extract it.
 
 ## To-do
 
