@@ -11,7 +11,7 @@ You need the following:
  2. pydivert
  3. Download this repo as a zip file and extract it.
 
-## To-do
+## To-Do
 
  1. Bypass track checksum.
 
