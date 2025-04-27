@@ -4,5 +4,5 @@
 	"EnableSteamID64Spoof": false,
 	"customSteamID64": "Leave it empty to randomnly generate one",
 	"LocalIPv4Address": "Your PC's IPv4 address assigned by the router",
-    "ServerIPv4Address": "Server's IPv4 address"
+    	"ServerIPv4Address": "Server's IPv4 address"
 }
